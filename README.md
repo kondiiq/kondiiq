@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 <!--- 🤔 I’m looking for help with ...-->
 <!--- 💬 Ask me about ... -->
 - 📫 How to reach me: https://pl.linkedin.com/in/konrad-kowalczyk-a1408a1a3
-- 😄 Pronouns: SE SHE/HER
+- 😄 Pronouns: SE SHE/HER/HELICOPTER
 <!--- ⚡ Fun fact: ...-->
 
 
