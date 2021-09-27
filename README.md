@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 <!--- 👯 I’m looking to collaborate on ...-->
 <!--- 🤔 I’m looking for help with ...-->
 <!--- 💬 Ask me about ... -->
-- 📫 How to reach me: https://pl.linkedin.com/in/konrad-kowalczyk-a1408a1a3 
+<!--- 📫 How to reach me: https://pl.linkedin.com/in/konrad-kowalczyk-a1408a1a3 
 - 😄 Pronouns: SE SHE/HER/HELICOPTER
-<!--- ⚡ Fun fact: ...-->
+- ⚡ Fun fact: ...-->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kondiiq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
