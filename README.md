@@ -4,7 +4,7 @@ Feel free to send questions to my e-mail adress -> kowalczykkon@gmail.com
 
 <!--**kondiiq/kondiiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+
 
 <!--- 🔭 I’m currently working on Capgemini as SAP Hybrid Intern-->
 - 🌱 I’m currently learning Cloud Application Programming Model( NodeJS / Spring Boot) && SAP Fiori (JavaScript / SAPUI5) 
