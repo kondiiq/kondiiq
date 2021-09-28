@@ -14,7 +14,7 @@ Feel free to send questions to my e-mail adress -> kowalczykkon@gmail.com
 <!--- 📫 How to reach me: https://pl.linkedin.com/in/konrad-kowalczyk-a1408a1a3 
 - 😄 Pronouns: SE SHE/HER/HELICOPTER
 - ⚡ Fun fact: ...-->
-
+This is my percents of technology which I'am use in my language stories :D  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kondiiq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
