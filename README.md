@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name's Konrad. I want to invite You to browisng my github channel.
-Feel free to send me questions to my e-mail adress -> kowalczykkon@gmail.com
+Feel free to send questions to my e-mail adress -> kowalczykkon@gmail.com
 
 <!--**kondiiq/kondiiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
