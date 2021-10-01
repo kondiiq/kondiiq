@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name's Konrad. I want to invite You to browisng my github channel.
+My name's Konrad. I want to invite You to browse my github repos :D 
 Feel free to send questions to my e-mail adress -> kowalczykkon@gmail.com
 
 <!--**kondiiq/kondiiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
