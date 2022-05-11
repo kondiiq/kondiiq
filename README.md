@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 My name's Konrad. I want to invite You to browse my github repos :D 
 Feel free to send questions to my e-mail adress -> kowalczykkon@protonmail.com
 
