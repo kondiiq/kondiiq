@@ -1,8 +1,7 @@
 ### Hello there 👋
-<p align="left">
+
 My name's Konrad. I want to invite You to browse my github repos :D 
 Feel free to send questions to my e-mail adress -> kowalczykkon@protonmail.com
-</p>
 <!--**kondiiq/kondiiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <!--- 👯 I’m looking to collaborate on ...-->
