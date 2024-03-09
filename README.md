@@ -10,9 +10,7 @@ Feel free to send questions to my e-mail adress -> kowalczykkon@protonmail.com
 <!--- 📫 How to reach me: https://pl.linkedin.com/in/konrad-kowalczyk-a1408a1a3 
 - ⚡ Fun fact: ...-->
 This is my percents of technology which I'am use in my language stories :D  
-<p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kondiiq&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kondiiq&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
