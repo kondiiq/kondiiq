@@ -14,5 +14,5 @@ Feel free to send questions to my e-mail adress -> kowalczykkon@protonmail.com
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kondiiq" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kondiiq" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kondiiq&repo=convoychat" />
 </a>
