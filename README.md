@@ -9,14 +9,14 @@ Dear Reader below You can see technologies which I've used in past :) <br />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kondiiq&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 
-Currently I'am working as Fullstack Application Developer in SAP Cloud Stack using Node.js with Cloud Application Programming Model framework in serverside plus SAPUI5 with Javascript in UI/UX. When I've got more time I try to learn Golang <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> and increase my knowleadge about algorithms, genetics algorithm and cloud computing topics :) 
+Currently I'am working as Fullstack Application Developer in SAP Cloud Stack using Node.js with Cloud Application Programming Model framework in serverside plus SAPUI5 with Javascript in UI/UX. When I've got more time I try to learn Golang  and increase my knowleadge about algorithms, genetics algorithm and cloud computing topics :) 
 
 ##Fun fact:
 
 
 ###Contact 
-[^1]📫 How to reach me: [Linkedin](https://pl.linkedin.com/in/konrad-kowalczyk-a1408a1a3) <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-[^2]📫 How to reach me: [Email](kowalczykkon@protonmail.com) <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
+[^1]📫 How to reach me: [Linkedin](https://pl.linkedin.com/in/konrad-kowalczyk-a1408a1a3) <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <br />
+[^2]📫 How to reach me: [Email](kowalczykkon@protonmail.com) <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/> <br />
 
 ###References
 I've got icons from [Badges4-README.md-Profile ](https://github.com/alexandresanlim/Badges4-README.md-Profile)
