@@ -12,5 +12,5 @@ Feel free to send questions to my e-mail adress -> kowalczykkon@protonmail.com
 
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kondiiq&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kondiiq&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
