@@ -11,7 +11,7 @@ Feel free to send questions to my e-mail adress -> kowalczykkon@protonmail.com
 - ⚡ Fun fact: ...-->
 This is my percents of technology which I'am use in my language stories :D  
 <p align="center">
- <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kondiiq&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kondiiq&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <picture>
