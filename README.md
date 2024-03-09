@@ -10,9 +10,10 @@ Feel free to send questions to my e-mail adress -> kowalczykkon@protonmail.com
 <!--- 💬 Ask me about ... -->
 <!--- 📫 How to reach me: https://pl.linkedin.com/in/konrad-kowalczyk-a1408a1a3 
 - ⚡ Fun fact: ...-->
-
+<h1 align="center">
 ## Technologies
- <h2 align="center">
+</h1>
+ <h2 align="left">
 Dear Reader below You can see technologies which I've used in past :) 
 </h2>
 <a align="center" href="https://github.com/anuraghazra/convoychat">
