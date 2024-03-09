@@ -9,9 +9,12 @@ Feel free to send questions to my e-mail adress -> kowalczykkon@protonmail.com
 <!--- 💬 Ask me about ... -->
 <!--- 📫 How to reach me: https://pl.linkedin.com/in/konrad-kowalczyk-a1408a1a3 
 - ⚡ Fun fact: ...-->
-<p align="center">
-  This is my percents of technology which I'am use in my language stories :D  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kondiiq&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kondiiq&repo=github-readme-stats&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kondiiq&repo=convoychat&theme=dracula" />
+</a>
 
 
