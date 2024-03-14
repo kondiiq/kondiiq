@@ -4,7 +4,7 @@ My name is Konrad. Here I would like to invite You Dear Reader to browse my gith
 
 ## Technologies
 
-Dear Reader below You can see technologies which I've used in my career :) 
+Dear Reader below You can see technologies which I've used in my career :) ...
 <a align="center" href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kondiiq&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
