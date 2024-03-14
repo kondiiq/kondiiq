@@ -36,6 +36,6 @@ Mostly time I work with :
 
 
 
-<h4 align="center">May the npm will be with You </h4>
+<h4 align="center">May the npm and Big Gopher will be with You </h4>
 
 [Back to top](#top)
