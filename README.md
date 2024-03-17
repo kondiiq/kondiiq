@@ -24,6 +24,8 @@ Mostly time I work with :
 
 * Hana / Postgres Database
 
+* OData V2 & V4
+
 * Docker / Podman
 
 ### Contact 📫
