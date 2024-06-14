@@ -12,7 +12,7 @@ Dear Reader below You can see technologies which I've used in my career :)
 </a>
 
 
-Currently, I'am I working as Application Developer in SAP Cloud Stack using Node.js with Cloud Application Programming Model(CAPM) framework in backend and SAPUI5 with Fiori and Javascript. When I've got more time I try to learn Golang and increase my knowledge about algorithms, genetics algorithm and cloud computing topics :)
+Currently, I'am I working as Application Developer in SAP Cloud Stack using Node.js with Cloud Application Programming Model(CAPM) framework in backend and SAPUI5 with Fiori and Javascript. When I've got more time I try to learn Golang and increase my knowledge about algorithms,GA, ML and cloud computing topics :)
 
 Mostly time I work with :
 
