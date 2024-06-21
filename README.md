@@ -20,7 +20,7 @@ Mostly time I work with :
 
 * SAPUI5/Fiori
 
-* SAP Bussiness Applicaiton Studio (SAP BTP)
+* SAP Business Application Studio (SAP BTP)
 
 * Hana / Postgres Database
 
@@ -38,6 +38,6 @@ Mostly time I work with :
 
 
 
-<h4 align="center">May the npm and Big Gopher will be with You </h4>
+<h4 align="center">May the npm and Big Gopher ll be with You </h4>
 
 [Back to top](#top)
