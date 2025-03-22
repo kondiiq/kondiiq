@@ -31,8 +31,8 @@ Mostly time I work with :
 * Docker / Podman
 
 ### Contact 📫
-1. How to reach me: [Linkedin](https://pl.linkedin.com/in/konrad-kowalczyk-a1408a1a3) <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <br />
-2. How to mail to me: kowalczykkon@protonmail.com <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>  <br />
+1. How to reach me: [LI](https://pl.linkedin.com/in/konrad-kowalczyk-a1408a1a3)
+2. How to mail to me: kowalczykkon@protonmail.com
 
 ### References
 * I've got icons from [Badges4-README.md-Profile ](https://github.com/alexandresanlim/Badges4-README.md-Profile)  <br />
